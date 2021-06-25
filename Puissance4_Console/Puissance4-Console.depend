@@ -1,0 +1,145 @@
+# depslib dependency file v1.0
+1587312831 source:c:\users\asma\documents\s2\resolution_des_prblm\projet\puissance4-console\alphabeta.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"AlphaBeta.h"
+	"NotreListe.h"
+	"Outil.h"
+
+1587312831 c:\users\asma\documents\s2\resolution_des_prblm\projet\puissance4-console\alphabeta.h
+
+1587311733 c:\users\asma\documents\s2\resolution_des_prblm\projet\puissance4-console\notreliste.h
+
+1589069419 c:\users\asma\documents\s2\resolution_des_prblm\projet\puissance4-console\outil.h
+	"NotreListe.h"
+
+1589069418 source:c:\users\asma\documents\s2\resolution_des_prblm\projet\puissance4-console\joueurvsjoueur.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"JoueurVsJoueur.h"
+	"NotreListe.h"
+	"Outil.h"
+
+1589069419 c:\users\asma\documents\s2\resolution_des_prblm\projet\puissance4-console\joueurvsjoueur.h
+
+1589069419 source:c:\users\asma\documents\s2\resolution_des_prblm\projet\puissance4-console\joueurvsmachine.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"JoueurVsMachine.h"
+	"NotreListe.h"
+	"Outil.h"
+	"MiniMax.h"
+	"AlphaBeta.h"
+
+1589069419 c:\users\asma\documents\s2\resolution_des_prblm\projet\puissance4-console\joueurvsmachine.h
+
+1587312831 c:\users\asma\documents\s2\resolution_des_prblm\projet\puissance4-console\minimax.h
+
+1589069322 source:c:\users\asma\documents\s2\resolution_des_prblm\projet\puissance4-console\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"NotreListe.h"
+	"JoueurVsMachine.h"
+
+1587312831 source:c:\users\asma\documents\s2\resolution_des_prblm\projet\puissance4-console\minimax.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"MiniMax.h"
+	"NotreListe.h"
+	"Outil.h"
+
+1589069192 source:c:\users\asma\documents\s2\resolution_des_prblm\projet\puissance4-console\plateau.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"NotreListe.h"
+	"Plateau.h"
+	"Outil.h"
+
+1587312831 c:\users\asma\documents\s2\resolution_des_prblm\projet\puissance4-console\plateau.h
+
+1589069753 source:c:\users\asma\documents\s2\resolution_des_prblm\projet\puissance4-console\outils.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Outil.h"
+	"NotreListe.h"
+
+1587311733 c:\users\asma\documents\s2\resolution_des_prblm\projet\puissance4-console\lesvarglobales.h
+
+1587312831 source:c:\users\hp\desktop\ehtp gi 2019-2020\s2\mondossier\résolution de problèmes\projet_puissance4_haoua_zahour_lahrache\projet_puissance4_haoua_zahour_lahrache\puissance4_console\alphabeta.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"AlphaBeta.h"
+	"NotreListe.h"
+	"Outil.h"
+
+1587312831 c:\users\hp\desktop\ehtp gi 2019-2020\s2\mondossier\résolution de problèmes\projet_puissance4_haoua_zahour_lahrache\projet_puissance4_haoua_zahour_lahrache\puissance4_console\alphabeta.h
+
+1587311733 c:\users\hp\desktop\ehtp gi 2019-2020\s2\mondossier\résolution de problèmes\projet_puissance4_haoua_zahour_lahrache\projet_puissance4_haoua_zahour_lahrache\puissance4_console\notreliste.h
+
+1589069419 c:\users\hp\desktop\ehtp gi 2019-2020\s2\mondossier\résolution de problèmes\projet_puissance4_haoua_zahour_lahrache\projet_puissance4_haoua_zahour_lahrache\puissance4_console\outil.h
+	"NotreListe.h"
+
+1589069418 source:c:\users\hp\desktop\ehtp gi 2019-2020\s2\mondossier\résolution de problèmes\projet_puissance4_haoua_zahour_lahrache\projet_puissance4_haoua_zahour_lahrache\puissance4_console\joueurvsjoueur.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"JoueurVsJoueur.h"
+	"NotreListe.h"
+	"Outil.h"
+
+1589069419 c:\users\hp\desktop\ehtp gi 2019-2020\s2\mondossier\résolution de problèmes\projet_puissance4_haoua_zahour_lahrache\projet_puissance4_haoua_zahour_lahrache\puissance4_console\joueurvsjoueur.h
+
+1589069322 source:c:\users\hp\desktop\ehtp gi 2019-2020\s2\mondossier\résolution de problèmes\projet_puissance4_haoua_zahour_lahrache\projet_puissance4_haoua_zahour_lahrache\puissance4_console\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"NotreListe.h"
+	"JoueurVsMachine.h"
+
+1589069419 c:\users\hp\desktop\ehtp gi 2019-2020\s2\mondossier\résolution de problèmes\projet_puissance4_haoua_zahour_lahrache\projet_puissance4_haoua_zahour_lahrache\puissance4_console\joueurvsmachine.h
+
+1587312831 source:c:\users\hp\desktop\ehtp gi 2019-2020\s2\mondossier\résolution de problèmes\projet_puissance4_haoua_zahour_lahrache\projet_puissance4_haoua_zahour_lahrache\puissance4_console\minimax.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"MiniMax.h"
+	"NotreListe.h"
+	"Outil.h"
+
+1587312831 c:\users\hp\desktop\ehtp gi 2019-2020\s2\mondossier\résolution de problèmes\projet_puissance4_haoua_zahour_lahrache\projet_puissance4_haoua_zahour_lahrache\puissance4_console\minimax.h
+
+1589069753 source:c:\users\hp\desktop\ehtp gi 2019-2020\s2\mondossier\résolution de problèmes\projet_puissance4_haoua_zahour_lahrache\projet_puissance4_haoua_zahour_lahrache\puissance4_console\outils.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Outil.h"
+	"NotreListe.h"
+
+1589189217 source:c:\users\hp\desktop\ehtp gi 2019-2020\s2\mondossier\résolution de problèmes\projet_puissance4_haoua_zahour_lahrache\projet_puissance4_haoua_zahour_lahrache\puissance4_console\plateau.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"NotreListe.h"
+	"Plateau.h"
+	"Outil.h"
+
+1587312831 c:\users\hp\desktop\ehtp gi 2019-2020\s2\mondossier\résolution de problèmes\projet_puissance4_haoua_zahour_lahrache\projet_puissance4_haoua_zahour_lahrache\puissance4_console\plateau.h
+
+1589206610 source:c:\users\hp\desktop\ehtp gi 2019-2020\s2\mondossier\résolution de problèmes\projet_puissance4_haoua_zahour_lahrache\projet_puissance4_haoua_zahour_lahrache\puissance4_console\joueurvsmachine.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"JoueurVsMachine.h"
+	"NotreListe.h"
+	"Outil.h"
+	"MiniMax.h"
+	"AlphaBeta.h"
+
